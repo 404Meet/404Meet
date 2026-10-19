@@ -9,7 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/meetpopat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/404Meet"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=1f6feb" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=404Meet&style=for-the-badge&color=1f6feb" alt="Profile views" />
 </p>
 
 </div>
@@ -46,16 +46,16 @@ I'm a **software engineer** with nearly **3 years of industry experience**, curr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=404Meet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Meet&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" />
 
 <br />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=404Meet&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <br />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub contribution activity summary" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404Meet&theme=tokyonight" alt="GitHub contribution activity summary" />
 
 </div>
 
