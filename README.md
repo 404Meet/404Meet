@@ -9,7 +9,6 @@
 <p>
   <a href="https://www.linkedin.com/in/meetpopat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/404Meet"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=404Meet&style=for-the-badge&color=1f6feb" alt="Profile views" />
 </p>
 
 </div>
