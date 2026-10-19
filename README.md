@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Meet%20Popat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20M.S.%20Computer%20Science&descAlignY=61&descSize=17" alt="Meet Popat banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+reliable+backend+systems;C%23+%7C+.NET+%7C+Java+%7C+Python;Exploring+AI+agents+%26+cloud-native+engineering" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+reliable+backend+systems;Exploring+AI+agents+%26+cloud-native+engineering" alt="Animated typing introduction" />
 </a>
 
 <p>
@@ -51,24 +51,25 @@ I'm a **software engineer** with nearly **3 years of industry experience**, curr
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
-## 📊 GitHub Analytics
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=404Meet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Meet&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" />
+  <!-- Top row -->
+  <p>
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404Meet&theme=tokyonight" />
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=404Meet&theme=tokyonight" />
+  </p>
 
-<br />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=404Meet&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404Meet&theme=tokyonight" alt="GitHub contribution activity summary" />
+  <!-- Bottom row -->
+  <p>
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=404Meet&theme=tokyonight" />
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=404Meet&theme=tokyonight" />
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=404Meet&theme=tokyonight&utcOffset=-4" />
+  </p>
 
 </div>
-
----
 
 <div align="center">
   <i>Always learning. Always building.</i>
