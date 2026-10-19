@@ -42,6 +42,15 @@ I'm a **software engineer** with nearly **3 years of industry experience**, curr
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
+## 🤖 AI / Agentic Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-1f6feb?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude / Anthropic" />
+  <img src="https://img.shields.io/badge/Codex-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex / OpenAI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
