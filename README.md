@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**404Meet/404Meet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Meet%20Popat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20M.S.%20Computer%20Science&descAlignY=61&descSize=17" alt="Meet Popat banner" />
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+reliable+backend+systems;C%23+%7C+.NET+%7C+Java+%7C+Python;Exploring+AI+agents+%26+cloud-native+engineering" alt="Animated typing introduction" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/meetpopat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/404Meet"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=1f6feb" alt="Profile views" />
+</p>
+
+</div>
+
+## 👨‍💻 About Me
+
+I'm a **software engineer** with nearly **3 years of industry experience**, currently pursuing an **M.S. in Computer Science at George Mason University** (expected May 2027). Previously, I worked as a **Senior Software Engineer at Thomson Reuters (SurePrep)**, developing and maintaining large-scale tax automation systems.
+
+## 🧰 Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,python,cpp,js,ts&theme=dark" alt="C#, Java, Python, C++, JavaScript, TypeScript" />
+</p>
+
+**Frameworks & Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,react,angular,html,css&theme=dark" alt=".NET, Spring, React, Angular, HTML, CSS" />
+</p>
+
+**Databases, Cloud & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,github,githubactions,linux,postman&theme=dark" alt="Azure, AWS, Docker, Kubernetes, Git, GitHub, GitHub Actions, Linux, Postman" />
+</p>
+
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" />
+
+<br />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub contribution activity summary" />
+
+</div>
+
+---
+
+<div align="center">
+  <i>Always learning. Always building.</i>
+</div>
